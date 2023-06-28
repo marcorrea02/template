@@ -1,5 +1,5 @@
 # repro-template
-General Reproducibility Package
+General Reproducibility Package to be modified by each user
 
 # Project
 Develop a template for the documentation of the neuromodulation tool to scrap PDFs and websites to collect acoustic parameter sets for neuromodulation applications. 
